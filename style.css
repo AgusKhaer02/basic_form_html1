@@ -1,0 +1,19 @@
+.container-fluid {
+  background-image: url("img/bg-image.png");
+  background-position: 45px;
+  color: white;
+  -webkit-text-stroke: 0.5px rgb(83, 83, 83);
+}
+.container-fluid p {
+  background-color: rgb(255, 69, 69);
+  background-size: cover;
+}
+
+.container{
+    background-color: white;
+}
+
+body {
+  background-image: url("img/college-back-to-school.gif");
+  background-repeat: repeat;
+}
